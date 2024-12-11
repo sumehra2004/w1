@@ -1,1 +1,2 @@
-print("hello after editing in b2")
+
+print("hello after editin in b1 conflict solved")
