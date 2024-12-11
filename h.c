@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
-    printf("hello edit in b1");
-    retuurn 0;
+    printf("hello in b2 conflict solved");
+    return 0;
 }
